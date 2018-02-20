@@ -24,7 +24,7 @@
 	"homepage": "https://github.com/imperez/vscode-smarty/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/imperez/vscode-smarty.git"
+        "url": "https://github.com/jens-duttke/vscode-smarty.git"
     },
 	"contributes": {
 		"languages": [{
